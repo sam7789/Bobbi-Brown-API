@@ -1,0 +1,46 @@
+const express = require("express");
+const Product = require("../models/ProductsModel");
+const router = express.Router();
+
+router.get("", async (req, res) => {
+  try {
+    const ProductsData = await Product.find().lean().exec();
+    return res.status(200).send(ProductsData);
+  } catch (err) {
+    console.log(err.message);
+    return res.status(500).send(err.message);
+  }
+});
+
+router.get("/:page", async (req, res) => {
+  try {
+    const ProductsData = await Product.find({ page: req.params.page })
+      .lean()
+      .exec();
+    return res.status(200).send(ProductsData);
+  } catch (err) {
+    return res.status(500).send(err.message);
+  }
+});
+
+router.get("/search/:key", async (req, res) => {
+  try {
+    function capitalize(string) {
+      return string.toUpperCase();
+    }
+    let result = capitalize(req.params.key);
+
+    // console.log(result);
+
+    const searchedProducts = await Product.find({
+      $or: [{ name: { $regex: result } }, { tag: { $regex: result } }],
+    })
+      .lean()
+      .exec();
+    return res.status(200).send(searchedProducts);
+  } catch (err) {
+    return res.status(500).send(err.message);
+  }
+});
+
+module.exports = router;

@@ -1,0 +1,910 @@
+[
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_E1LM01_600x600_0.jpg",
+    "name": "VITAMIN ENRICHED FACE BASE",
+    "tag": "Multasking, moisturizing primer",
+    "price": 64,
+    "page": "bestseller"
+  },
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_EGXR04_600x600_0.jpg",
+    "name": "SKIN LONG-WEAR WEIGHTLESS FOUNDATION",
+    "tag": "16-hour, breathable, natural matte coverage",
+    "price": 50,
+    "page": "bestseller"
+  },
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_EPXL17_600x600_0.jpg",
+    "name": "SKIN CORRECTOE STICK",
+    "tag": "Discoloration neutralizer for face",
+    "price": 80,
+    "page": "bestseller"
+  },
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_ERFJ01_600x600_0.jpg",
+    "name": "SKIN CONCEALER STICK",
+    "tag": "Easy-to-use, long-lasting concealer stick",
+    "price": 32,
+    "page": "bestseller"
+  },
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_EER901_600x600_0.jpg",
+    "name": "EXTRA LIP TINT",
+    "tag": "Color-enhancing lip balm",
+    "price": 34,
+    "page": "bestseller"
+  },
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_ENPT01_600x600_0.jpg",
+    "name": "SHEER FINISH PRESSED POWDER",
+    "tag": "Oil-absorbing powder",
+    "price": 45,
+    "page": "bestseller"
+  },
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_E96E40_600x600_0.jpg",
+    "name": "LONG-WEAR CREAM SHADOW STICK",
+    "tag": "Our ultimate quick eye shadow stick",
+    "price": 50,
+    "page": "bestseller"
+  },
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_EFAA01_600x600_0.jpg",
+    "name": "HIGHLIGHTING POWDER",
+    "tag": "Pearl-infused illuminator",
+    "price": 32,
+    "page": "bestseller"
+  },
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_E6XW02_600x600_0.jpg",
+    "name": "CORRECTOR",
+    "tag": "Full-coverage dark circle corrector",
+    "price": 50,
+    "page": "bestseller"
+  },
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_EM4201_600x600_0.jpg",
+    "name": "SOOTHING CLEANSING OIL",
+    "tag": "Makeup remover and cleanser",
+    "price": 29,
+    "page": "bestseller"
+  },
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_EMCK01_600x600_0.jpg",
+    "name": "CRUSHED OIL-INFUSED GLOSS",
+    "tag": "Hydrating, non-sticky lip gloss",
+    "price": 20,
+    "page": "bestseller"
+  },
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_EH2102_600x600_0.jpg",
+    "name": "CRUSHED LIP COLOR",
+    "tag": "Playful, effortless color",
+    "price": 75,
+    "page": "bestseller"
+  },
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_E9TN01_600x600_0.jpg",
+    "name": "SMOKEY EYE MASCARA",
+    "tag": "Long-wearing, volumizing mascara",
+    "price": 55,
+    "page": "bestseller"
+  },
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_EH9A01_600x600_0.jpg",
+    "name": "INSTANT FULL COVER CONCEALER",
+    "tag": "Full-coverage, long-lasting concealer",
+    "price": 65,
+    "page": "bestseller"
+  },
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_EA6C17_600x600_0.jpg",
+    "name": "SKIN FOUNDATION STICK",
+    "tag": "Multitasking, on-the-go stick",
+    "price": 105,
+    "page": "bestseller"
+  },
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_EFX201_600x600_0.jpg",
+    "name": "SKIN CLARIFIER NO. 75",
+    "tag": "Concentrated pore-clarifying treatment",
+    "price": 160,
+    "page": "bestseller"
+  },
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_E65Y01_600x600_0.jpg",
+    "name": "HYDRATING EYE CREAM",
+    "tag": "Gentle, quick-absorbing eye cream",
+    "price": 70,
+    "page": "bestseller"
+  },
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_ECNF09_600x600_0.jpg",
+    "name": "PERFECTLY DEFINED LONG-WEAR PENCIL",
+    "tag": "All-in-one, refillable brow pencil",
+    "price": 54,
+    "page": "bestseller"
+  },
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_E0KK07_600x600_0.jpg",
+    "name": "LONG-WEAR GEL EYELINER",
+    "tag": "Waterproof, no-smudge eyeliner",
+    "price": 49,
+    "page": "bestseller"
+  },
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_E39Y01_600x600_0.jpg",
+    "name": "BRONZING POWDER",
+    "tag": "Sun-kissed, matte bronzer",
+    "price": 56,
+    "page": "bestseller"
+  },
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_E7YW01_600x600_0.jpg",
+    "name": "BEACH",
+    "tag": "Light, summer-inspired perfume",
+    "price": 45,
+    "page": "bestseller"
+  },
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_EPGN01_600x600_0.jpg",
+    "name": "MINI VITAMIN ENRICHED FACE BASE",
+    "tag": "Oil-free moisturizer and primer",
+    "price": 28,
+    "page": "bestseller"
+  },
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_E65X01_600x600_0.jpg",
+    "name": "HYDRATING FACE CREAM",
+    "tag": "Rich yet lightweight moisturizer",
+    "price": 44,
+    "page": "bestseller"
+  },
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/v2_1080x1080/bb_sku_EPH201_1080x1080_0.jpg",
+    "name": "MINI HIGHLIGHTING POWDER",
+    "tag": "Pearlescent Glow on the Go",
+    "price": 67,
+    "page": "bestseller"
+  },
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_E1LM01_600x600_0.jpg",
+    "name": "VITAMIN ENRICHED FACE BASE",
+    "tag": "Multitasking, moisturizing primer",
+    "price": 52,
+    "page": "face"
+  },
+
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_EGXR04_600x600_0.jpg",
+    "name": "SKIN LONG-WEAR WEIGHTLESS FOUNDATION",
+    "tag": "16-hour, breathable, natural matte coverage",
+    "price": 44,
+    "page": "face"
+  },
+
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_EPXL17_600x600_0.jpg",
+    "name": "SKIN CORRECTOR STICK",
+    "tag": "Discoloration neutralizer for undereyes & face",
+    "price": 25,
+    "page": "face"
+  },
+
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_ERFJ09_600x600_0.jpg",
+    "name": "SKIN CONCEALER STICK",
+    "tag": "Easy-to-use, long-lasting concealer stick",
+    "price": 80,
+    "page": "face"
+  },
+
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_ETRR01_600x600_0.jpg",
+    "name": "INTENSIVE SERUM CONCEALER",
+    "tag": "Brightens and boosts hydration",
+    "price": 105,
+    "page": "face"
+  },
+
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_EME717_600x600_0.jpg",
+    "name": "INTENSIVE SERUM FOUNDATION SPF",
+    "tag": "Radiance-boosting foundation",
+    "price": 34,
+    "page": "face"
+  },
+
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_EA6C17_600x600_0.jpg",
+    "name": "SKIN FOUNDATION STICK",
+    "tag": "Multitasking, on-the-go stick",
+    "price": 64,
+    "page": "face"
+  },
+
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_E2LE17_600x600_0.jpg",
+    "name": "SKIN FOUNDATION SPF 15",
+    "tag": "Water-based, oil-free foundation",
+    "price": 32,
+    "page": "face"
+  },
+
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_ET5K11_600x600_0.jpg",
+    "name": "SKIN WEIGHTLESS POWDER FOUNDATION",
+    "tag": "Silky, oil-free powder formula",
+    "price": 185,
+    "page": "face"
+  },
+
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_ENHM11_600x600_0.jpg",
+    "name": "SKIN LONG-WEAR POWDER FOUNDATION",
+    "tag": "Hybrid liquid-to-powder foundation",
+    "price": 150,
+    "page": "face"
+  },
+
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_ENPT01_600x600_0.jpg",
+    "name": "SHEER FINISH PRESSED POWDER",
+    "tag": "Oil-absorbing powder",
+    "price": 20,
+    "page": "face"
+  },
+
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_ENPW01_600x600_0.jpg",
+    "name": "SHEER FINISH LOOSE POWDER",
+    "tag": "Oil-free mattifying powder",
+    "price": 78,
+    "page": "face"
+  },
+
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_E6XW02_600x600_0.jpg",
+    "name": "CORRECTOR",
+    "tag": "Full-coverage dark circle corrector",
+    "price": 35,
+    "page": "face"
+  },
+
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_E6XT08_600x600_0.jpg",
+    "name": "CREAMY CONCEALER KIT",
+    "tag": "Two-step undereye-brightening kit",
+    "price": 28,
+    "page": "face"
+  },
+
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_EH9A01_600x600_0.jpg",
+    "name": "INSTANT FULL COVER CONCEALER",
+    "tag": "Full-coverage, long-lasting concealer",
+    "price": 34,
+    "page": "face"
+  },
+
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_EN6F14_600x600_0.jpg",
+    "name": "INTENSIVE SKIN SERUM CONCEALER",
+    "tag": "Radiance-boosting concealer",
+    "price": 62,
+    "page": "face"
+  },
+
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_EHLL01_600x600_0.jpg",
+    "name": "PRIMER PLUS MATTIFIER",
+    "tag": "Oil-absorbing primer",
+    "price": 56,
+    "page": "face"
+  },
+
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_EKLT01_600x600_0.jpg",
+    "name": "PRIMER PLUS PROTECTION SPF 50",
+    "tag": "Protective face primer",
+    "price": 78,
+    "page": "face"
+  },
+
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_ERE011_600x600_0.jpg",
+    "name": "LONG-WEAR WEIGHTLESS FOUNDATION",
+    "tag": "16-hour, medium coverage matte formula",
+    "price": 25,
+    "page": "face"
+  },
+
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_E3CA01_600x600_0.jpg",
+    "name": "FOUNDATION BRUSH",
+    "tag": "Expertly angled face brush",
+    "price": 90,
+    "page": "face"
+  },
+
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_E96N01_600x600_0.jpg",
+    "name": "FULL COVERAGE TOUCH UP BRUSH",
+    "tag": "Ultra-soft foundation brush",
+    "price": 45,
+    "page": "face"
+  },
+
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_E55501_600x600_0.jpg",
+    "name": "POWDER BRUSH",
+    "tag": "Gently tapered setting brush",
+    "price": 35,
+    "page": "face"
+  },
+
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_E55901_600x600_0.jpg",
+    "name": "BRONZER BRUSH",
+    "tag": "Soft brush for seamless finish",
+    "price": 68,
+    "page": "face"
+  },
+
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_EMCY01_600x600_0.jpg",
+    "name": "PRECISE BUFFING BRUSH",
+    "tag": "Angular foundation brush",
+    "price": 70,
+    "page": "face"
+  },
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_E1LM01_600x600_0.jpg",
+    "name": "VITAMIN ENRICHED FACE BASE",
+    "tag": "Multitasking, moisturizing primer",
+    "price": 67,
+    "page": "makeup"
+  },
+
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_EGXR04_600x600_0.jpg",
+    "name": "SKIN LONG-WEAR WEIGHTLESS FOUNDATION",
+    "tag": "16-hour, breathable, natural matte coverage",
+    "price": 25,
+    "page": "makeup"
+  },
+
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_EPXL17_600x600_0.jpg",
+    "name": "SKIN CORRECTOR STICK",
+    "tag": "Discoloration neutralizer for undereyes & face",
+    "price": 29,
+    "page": "makeup"
+  },
+
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_ERFJ01_600x600_0.jpg",
+    "name": "SKIN CONCEALER STICK",
+    "tag": "Easy-to-use, long-lasting concealer stick",
+    "price": 115,
+    "page": "makeup"
+  },
+
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_EER901_600x600_0.jpg",
+    "name": "EXTRA LIP TINT",
+    "tag": "Color-enhancing lip balm",
+    "price": 56,
+    "page": "makeup"
+  },
+
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_ENPT01_600x600_0.jpg",
+    "name": "SHEER FINISH PRESSED POWDER",
+    "tag": "Oil-absorbing powder",
+    "price": 120,
+    "page": "makeup"
+  },
+
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_E96E40_600x600_0.jpg",
+    "name": "LONG-WEAR CREAM SHADOW STICK",
+    "tag": "Our ultimate quick eye shadow stick",
+    "price": 59,
+    "page": "makeup"
+  },
+
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_EFAA01_600x600_0.jpg",
+    "name": "HIGHLIGHTING POWDER",
+    "tag": "Pearl-infused illuminator",
+    "price": 29,
+    "page": "makeup"
+  },
+
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_E6XW02_600x600_0.jpg",
+    "name": "CORRECTOR",
+    "tag": "Full-coverage dark circle corrector",
+    "price": 34,
+    "page": "makeup"
+  },
+
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_EM4201_600x600_0.jpg",
+    "name": "SOOTHING CLEANSING OIL",
+    "tag": "Makeup remover and cleanser",
+    "price": 65,
+    "page": "makeup"
+  },
+
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_EMCK01_600x600_0.jpg",
+    "name": "CRUSHED OIL-INFUSED GLOSS",
+    "tag": "Hydrating, non-sticky lip gloss",
+    "price": 34,
+    "page": "makeup"
+  },
+
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_EH2102_600x600_0.jpg",
+    "name": "CRUSHED LIP COLOR",
+    "tag": "Playful, effortless color",
+    "price": 80,
+    "page": "makeup"
+  },
+
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_E9TN01_600x600_0.jpg",
+    "name": "SMOKEY EYE MASCARA",
+    "tag": "Long-wearing, volumizing mascara",
+    "price": 105,
+    "page": "makeup"
+  },
+
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_EH9A01_600x600_0.jpg",
+    "name": "INSTANT FULL COVER CONCEALER",
+    "tag": "Full-coverage, long-lasting concealer",
+    "price": 89,
+    "page": "makeup"
+  },
+
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_EA6C17_600x600_0.jpg",
+    "name": "SKIN FOUNDATION STICK",
+    "tag": "Multitasking, on-the-go stick",
+    "price": 45,
+    "page": "makeup"
+  },
+
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_EFX201_600x600_0.jpg",
+    "name": "SKIN CLARIFIER NO. 75",
+    "tag": "Concentrated pore-clarifying treatment",
+    "price": 67,
+    "page": "makeup"
+  },
+
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_E65Y01_600x600_0.jpg",
+    "name": "HYDRATING EYE CREAM",
+    "tag": "Gentle, quick-absorbing eye cream",
+    "price": 110,
+    "page": "makeup"
+  },
+
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_ECNF09_600x600_0.jpg",
+    "name": "PERFECTLY DEFINED LONG-WEAR PENCIL",
+    "tag": "All-in-one, refillable brow pencil",
+    "price": 25,
+    "page": "makeup"
+  },
+
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_E0KK07_600x600_0.jpg",
+    "name": "LONG-WEAR GEL EYELINER",
+    "tag": "Waterproof, no-smudge eyeliner",
+    "price": 20,
+    "page": "makeup"
+  },
+
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_E39Y01_600x600_0.jpg",
+    "name": "BRONZING POWDER",
+    "tag": "Sun-kissed, matte bronzer",
+    "price": 90,
+    "page": "makeup"
+  },
+
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_E7YW01_600x600_0.jpg",
+    "name": "BEACH",
+    "tag": "Light, summer-inspired perfume",
+    "price": 79,
+    "page": "makeup"
+  },
+
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_EPGN01_600x600_0.jpg",
+    "name": "MINI VITAMIN ENRICHED FACE BASE",
+    "tag": "Oil-free moisturizer and primer",
+    "price": 121,
+    "page": "makeup"
+  },
+
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_EPH201_600x600_0.jpg",
+    "name": "MINI HIGHLIGHTING POWDER",
+    "tag": "Pearlescent Glow on the Go",
+    "price": 34,
+    "page": "makeup"
+  },
+
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_E65X01_600x600_0.jpg",
+    "name": "HYDRATING FACE CREAM",
+    "tag": "Rich yet lightweight moisturizer",
+    "price": 85,
+    "page": "makeup"
+  },
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/v2_1080x1080/bb_sku_EPXL17_1080x1080_0.jpg",
+    "name": "SKIN CORRECTOR STICK",
+    "tag": "Discolored neutralizer for undereyes & face",
+    "price": 32,
+    "page": "new"
+  },
+
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_ERFJ03_600x600_0.jpg",
+    "name": "SKIN CONCEALER STICK",
+    "tag": "Easy-to-use, long-lasting concealer stick",
+    "price": 32,
+    "page": "new"
+  },
+
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_ETCW01_600x600_0.jpg",
+    "name": "HIGHLIGHTING POWDER",
+    "tag": "Pearl-infused illuminator",
+    "price": 56,
+    "page": "new"
+  },
+
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_ETCY12_600x600_0.jpg",
+    "name": "EXTRA LIP TINT",
+    "tag": "Color-enhancing lip balm",
+    "price": 34,
+    "page": "new"
+  },
+
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_ETCT01_600x600_0.jpg",
+    "name": "SOOTHING CLEANSING OIL",
+    "tag": "Makeup Remover and Face Cleaner",
+    "price": 60,
+    "page": "new"
+  },
+
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_ETP201_600x600_0.jpg",
+    "name": "JUST A HINT EXTRA LIP SET",
+    "tag": "Powerful tinted lip treatment",
+    "price": 56,
+    "page": "new"
+  },
+
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_ETR201_600x600_0.jpg",
+    "name": "EXTRA SKINCARE PACKAGE",
+    "tag": "Extra care for face, eyes & lips",
+    "price": 125,
+    "page": "new"
+  },
+
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_ERGC02_600x600_0.jpg",
+    "name": "LUXE EYE SHADOW",
+    "tag": "Metalic shimmer eye shadow",
+    "price": 38,
+    "page": "new"
+  },
+
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_ETRR01_600x600_0.jpg",
+    "name": "INTENSIVE SERUM CONCEALER",
+    "tag": "Bright and boosts hydration",
+    "price": 45,
+    "page": "new"
+  },
+
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_E96E44_600x600_0.jpg",
+    "name": "LONG-WEAR CREAM SHADOW STICK",
+    "tag": "Our ultimate quick eye shadow stick",
+    "price": 30,
+    "page": "new"
+  },
+
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_EM9301_600x600_0.jpg",
+    "name": "DELUX SIZE SOOTHING CLEANSING OIL",
+    "tag": "Value-sized gentle makeup-dissolving oil",
+    "price": 80,
+    "page": "new"
+  },
+
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_EP7P01_600x600_0.jpg",
+    "name": "EXTRA REPAIRE EYE CREAM INTENSE",
+    "tag": "Revitalizing undereye treatment",
+    "price": 32,
+    "page": "new"
+  },
+
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_EPHC01_600x600_0.jpg",
+    "name": "EXTRA REPAIR EYE INTENSE REFILL",
+    "tag": "Skin loving, planet conscious",
+    "price": 68,
+    "page": "new"
+  },
+
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_EREP01_600x600_0.jpg",
+    "name": "EXTRA REPAIR MOISTURE CREAM INTENSE",
+    "tag": "Replenshing face cream with Vitamin C",
+    "price": 105,
+    "page": "new"
+  },
+
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_ERER01_600x600_0.jpg",
+    "name": "EXTRA REPAIR MOISTURE CREAM INTENCE",
+    "tag": "Refil.Reuse.Repeat",
+    "price": 85,
+    "page": "new"
+  },
+
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_ERAN01_600x600_0.jpg",
+    "name": "EXTRA CLEANSING BALM",
+    "tag": "Purifying, conditioning cleanser",
+    "price": 56,
+    "page": "new"
+  },
+
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_EW3C01_600x600_0.jpg",
+    "name": "MINI LONG-WEAR CREAM SHADOW STICK",
+    "tag": "3 glide-and-go eye shadow stick minis",
+    "price": 29,
+    "page": "new"
+  },
+
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_ETR501_600x600_0.jpg",
+    "name": "VITAMIN ENRICHED FACE BASE DUO",
+    "tag": "Multivitamin-enriched primer set",
+    "price": 64,
+    "page": "new"
+  },
+
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_ET7C01_600x600_0.jpg",
+    "name": "DELUXE SIZE VITAMIN ENRICHED FACE BASE",
+    "tag": "Moisturizer and primer in one",
+    "price": 95,
+    "page": "new"
+  },
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_E1LM01_600x600_0.jpg",
+    "name": "VITAMIN ENRICHED FACE BASE",
+    "tag": "Multitasking, moisturizing primer",
+    "price": 25,
+    "page": "skincare"
+  },
+
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_EL1901_600x600_0.jpg",
+    "name": "VITAMIN ENRICHED EYE BASE",
+    "tag": "Moisturizing undereye primer",
+    "price": 64,
+    "page": "skincare"
+  },
+
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_EREP01_600x600_0.jpg",
+    "name": "EXTRA REPAIR MOISTURE CREAM INTENSE",
+    "tag": "Replenishing face cream with Vitamin C",
+    "price": 89,
+    "page": "skincare"
+  },
+
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_EP7P01_600x600_0.jpg",
+    "name": "EXTRA REPAIR EYE CREAM INTENSE",
+    "tag": "Revitalizing undereye treatment",
+    "price": 49,
+    "page": "skincare"
+  },
+
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_ERAN01_600x600_0.jpg",
+    "name": "EXTRA CLEANSING BALM",
+    "tag": "Purifying, conditioning cleanser",
+    "price": 99,
+    "page": "skincare"
+  },
+
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_EPHC01_600x600_0.jpg",
+    "name": "EXTRA REPAIR EYE CREAM REFILL",
+    "tag": "Skin loving. Planet conscious.",
+    "price": 60,
+    "page": "skincare"
+  },
+
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_ERER01_600x600_0.jpg",
+    "name": "EXTRA REPAIR MOISTURE CREAM REFILL",
+    "tag": "Refill. Reuse. Repeat.",
+    "price": 64,
+    "page": "skincare"
+  },
+
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_E65X01_600x600_0.jpg",
+    "name": "HYDRATING FACE CREAM",
+    "tag": "Rich yet lightweight moisturizer",
+    "price": 105,
+    "page": "skincare"
+  },
+
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_E65Y01_600x600_0.jpg",
+    "name": "HYDRATING EYE CREAM",
+    "tag": "Gentle, quick-absorbing eye cream",
+    "price": 39,
+    "page": "skincare"
+  },
+
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_EMNE01_600x600_0.jpg",
+    "name": "HYDRATING WATER FRESH CREAM",
+    "tag": "100 hours of nonstop hydration",
+    "price": 80,
+    "page": "skincare"
+  },
+
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_ET7G01_600x600_0.jpg",
+    "name": "DELUXE SIZE REMEDIES SKIN CLARIFIER",
+    "tag": "Pore-clarifying booster",
+    "price": 56,
+    "page": "skincare"
+  },
+
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_ET7E01_600x600_0.jpg",
+    "name": "DELUXE SIZE SOOTHING CLEANSING OIL",
+    "tag": "Gentle makeup-dissolving oil",
+    "price": 78,
+    "page": "skincare"
+  },
+
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_EHP201_600x600_0.jpg",
+    "name": "EXTRA ILLUMINATING MOISTURE BALM",
+    "tag": "Glow-amplifying moisturizer",
+    "price": 20,
+    "page": "skincare"
+  },
+
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_E1YJ01_600x600_0.jpg",
+    "name": "EXTRA FACE OIL",
+    "tag": "Silky, fast-absorbing face oil",
+    "price": 45,
+    "page": "skincare"
+  },
+
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_EER901_600x600_0.jpg",
+    "name": "EXTRA LIP TINT",
+    "tag": "Color-enhancing lip balm",
+    "price": 28,
+    "page": "skincare"
+  },
+
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_EM4201_600x600_0.jpg",
+    "name": "SOOTHING CLEANSING OIL",
+    "tag": "Makeup remover and cleanser",
+    "price": 75,
+    "page": "skincare"
+  },
+
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_ETCT01_600x600_0.jpg",
+    "name": "SOOTHING CLEANSING OIL",
+    "tag": "Makeup Remover and Face Cleanser",
+    "price": 90,
+    "page": "skincare"
+  },
+
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_EFX201_600x600_0.jpg",
+    "name": "SKIN CLARIFIER NO. 75",
+    "tag": "Concentrated pore-clarifying treatment",
+    "price": 135,
+    "page": "skincare"
+  },
+
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_EG7801_600x600_0.jpg",
+    "name": "SKIN MOISTURE SOLUTION",
+    "tag": "Water-infused hydrating serum",
+    "price": 35,
+    "page": "skincare"
+  },
+
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_E65R01_600x600_0.jpg",
+    "name": "HYDRATING FACE TONIC",
+    "tag": "Balancing and restoring toner",
+    "price": 64,
+    "page": "skincare"
+  },
+
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_E42G01_600x600_0.jpg",
+    "name": "INSTANT LONG-WEAR MAKEUP REMOVER",
+    "tag": "Gentle eye-makeup remover",
+    "price": 55,
+    "page": "skincare"
+  },
+
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_EM6701_600x600_0.jpg",
+    "name": "MAKEUP MELTER & CLEANSER",
+    "tag": "Gentle foaming makeup remover",
+    "price": 198,
+    "page": "skincare"
+  },
+
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_EKLT01_600x600_0.jpg",
+    "name": "PRIMER PLUS PROTECTION SPF 50",
+    "tag": "Protective face primer",
+    "price": 105,
+    "page": "skincare"
+  },
+
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_EM9301_600x600_0.jpg",
+    "name": "DELUXE SIZE SOOTHING CLEANSING OIL",
+    "tag": "Value-sized gentle makeup-dissolving oil",
+    "price": 29,
+    "page": "skincare"
+  },
+
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_EPGN01_600x600_0.jpg",
+    "name": "MINI VITAMIN ENRICHED FACE BASE",
+    "tag": "Oil-free moisturizer and primer",
+    "price": 80,
+    "page": "skincare"
+  },
+
+  {
+    "Image": "https://www.bobbibrowncosmetics.com/media/export/cms/products/600x600/bb_sku_EPGP01_600x600_0.jpg",
+    "name": "MINI SOOTHING CLEANSING OIL",
+    "tag": "On-the-go gentle makeup-dissolving oil",
+    "price": 150,
+    "page": "skincare"
+  }
+]
