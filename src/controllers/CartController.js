@@ -4,7 +4,7 @@ const authenticate = require("../middlewares/authenticate");
 
 const router = express.Router();
 
-router.post("/:id", authenticate, async (req, res) => {
+router.post("/add/:id", authenticate, async (req, res) => {
   try {
     let user = await User.findById(req.user._id);
     await user.addToCart(req.params.id);
@@ -26,6 +26,16 @@ router.post("/delete/:id", authenticate, async (req, res) => {
   try {
     let user = await User.findById(req.user._id);
     await user.deleteCartItem(req.params.id);
+    return res.status(200).send({ user });
+  } catch (error) {
+    return res.status(500).send(err.message);
+  }
+});
+
+router.post("/removeall", authenticate, async (req, res) => {
+  try {
+    let user = await User.findById(req.user._id);
+    await user.checkOut();
     return res.status(200).send({ user });
   } catch (error) {
     return res.status(500).send(err.message);
