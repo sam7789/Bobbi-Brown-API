@@ -1,8 +1,8 @@
-const express = require("express");
+const express = require("express")
 const cors = require("cors");
 const ProductController = require("./controllers/ProductsController");
+const CartController = require("./controllers/CartController")
 const { register, login } = require("./controllers/AuthController");
-
 const app = express();
 
 app.use(cors());
@@ -20,5 +20,6 @@ app.get("", (req, res) => {
 });
 
 app.use("/product", ProductController);
+app.use("/cart",CartController);
 
 module.exports = app;
