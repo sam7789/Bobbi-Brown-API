@@ -3,27 +3,32 @@ const bcrypt = require("bcrypt");
 const Product = require("./ProductsModel");
 
 // creating UserSchema :-
-const userSchema = new mongoose.Schema({
-  name: { type: String, required: true },
-  email: { type: String, required: true, unique: true },
-  password: { type: String, required: true },
-  cart: {
-    items: [
-      {
-        productId: {
-          type: mongoose.Types.ObjectId,
-          ref: "product",
-          required: true,
+const userSchema = new mongoose.Schema(
+  {
+    name: { type: String, required: true },
+    email: { type: String, required: true, unique: true },
+    password: { type: String, required: true },
+    cart: {
+      items: [
+        {
+          productId: {
+            type: mongoose.Types.ObjectId,
+            ref: "product",
+            required: true,
+          },
+          qty: {
+            type: Number,
+            required: true,
+          },
         },
-        qty: {
-          type: Number,
-          required: true,
-        },
-      },
-    ],
-    totalPrice: Number,
+      ],
+      totalPrice: { type: Number, required: false },
+    },
   },
-});
+  {
+    versionKey: false,
+  }
+);
 
 userSchema.pre("save", function (next) {
   const hash = bcrypt.hashSync(this.password, 8);
@@ -31,8 +36,8 @@ userSchema.pre("save", function (next) {
   return next();
 });
 
-userSchema.methods.checkPassword = function (password) {
-  return bcrypt.compareSync(password, this.password);
+userSchema.methods.checkPassword = async function (password) {
+  return await bcrypt.compareSync(new String(password).trim(), this.password);
 };
 
 // addttocart method
@@ -103,7 +108,9 @@ userSchema.methods.deleteCartItem = async function (productId) {
 // cart item removal due to checkout
 
 userSchema.methods.checkOut = async function () {
-  this.cart = { items: [], totalPrice: 0 };
+  let cart = this.cart;
+  cart.items.splice(0, cart.items.length);
+  cart.totalPrice = 0;
   return this.save();
 };
 
