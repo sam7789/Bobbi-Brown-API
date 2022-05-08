@@ -12,7 +12,9 @@ const register = async (req, res) => {
     if (user) {
       return res.status(400).send({ message: "User already exists" });
     }
-    user = await User.create(req.body);
+    user = await User.create(req.body).populate({
+      path: "cart.items.productId",
+    });
     const token = generateToken(user);
     return res.status(200).send({ user, token });
   } catch (e) {
@@ -22,7 +24,9 @@ const register = async (req, res) => {
 
 const login = async (req, res) => {
   try {
-    let user = await User.findOne({ email: req.body.email });
+    let user = await User.findOne({ email: req.body.email }).populate({
+      path: "cart.items.productId",
+    });
 
     if (!user) {
       return res.status(400).send({ message: "Wrong Email or Password" });

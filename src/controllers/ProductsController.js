@@ -1,5 +1,6 @@
 const express = require("express");
 const Product = require("../models/ProductsModel");
+const User = require("../models/UserModel");
 const router = express.Router();
 
 router.get("", async (req, res) => {
@@ -9,6 +10,15 @@ router.get("", async (req, res) => {
   } catch (err) {
     console.log(err.message);
     return res.status(500).send(err.message);
+  }
+});
+
+router.get("/product/:id", async (req, res) => {
+  try {
+    const ProductData = await Product.findById(req.params.id).lean().exec();
+    return res.status(200).send({ Product: ProductData });
+  } catch (error) {
+    return res.status(500).send(error.message);
   }
 });
 

@@ -18,7 +18,7 @@ const userSchema = new mongoose.Schema(
           },
           qty: {
             type: Number,
-            required: true,
+            required: false,
           },
         },
       ],
@@ -42,14 +42,17 @@ userSchema.methods.checkPassword = async function (password) {
 
 // addttocart method
 userSchema.methods.addToCart = async function (productId) {
-  const product = await Product.findById(productId);
+  const product = await Product.findById(new String(productId).trim());
   if (product) {
     const cart = this.cart;
     const isExisting = cart.items.findIndex(
       (objInItems) =>
         new String(objInItems.productId).trim() ===
-        new String(product._id).trim()
+          new String(product._id).trim() ||
+        new String(objInItems.productId._id).trim() ===
+          new String(product._id).trim()
     );
+    console.log(isExisting);
     if (isExisting >= 0) {
       cart.items[isExisting].qty += 1;
     } else {
@@ -66,13 +69,15 @@ userSchema.methods.addToCart = async function (productId) {
 // reduce the quantity of item by 1
 
 userSchema.methods.removeCartItem = async function (productId) {
-  const product = await Product.findById(productId);
+  const product = await Product.findById(new String(productId).trim());
   if (product) {
     const cart = this.cart;
     const isExisting = cart.items.findIndex(
       (objInItems) =>
         new String(objInItems.productId).trim() ===
-        new String(product._id).trim()
+          new String(product._id).trim() ||
+        new String(objInItems.productId._id).trim() ===
+          new String(product._id).trim()
     );
     if (cart.items[isExisting].qty > 1) {
       cart.items[isExisting].qty -= 1;
@@ -95,7 +100,9 @@ userSchema.methods.deleteCartItem = async function (productId) {
     const isExisting = cart.items.findIndex(
       (objInItems) =>
         new String(objInItems.productId).trim() ===
-        new String(product._id).trim()
+          new String(product._id).trim() ||
+        new String(objInItems.productId._id).trim() ===
+          new String(product._id).trim()
     );
 
     cart.totalPrice -= product.price * cart.items[isExisting].qty;
