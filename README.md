@@ -52,7 +52,7 @@ This was a collaborative project of six member to create a clone of bobbi-brown 
 | :-------- | :------- | :------------------------- |
 | `name`|`string`|**Required**|
 | `email` | `string` | **Required**. Email should be Unique |
-| `password  | `string` | **Required** (No password specification as such) |
+| `password`  | `string` | **Required** (No password specification as such) |
 
 #### Login
 
