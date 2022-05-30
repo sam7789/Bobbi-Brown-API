@@ -42,6 +42,29 @@ This was a collaborative project of six member to create a clone of bobbi-brown 
 | :-------- | :------- | :-------------------------------- |
 | `page`      | `string` | **Required**. Filter the product data as per pages |
 
+
+#### Get Full Profuct detail by `product_id`
+
+```http
+  GET /product/product/${product_id}
+```
+
+| Parameter | Type     | Description                       |
+| :-------- | :------- | :-------------------------------- |
+| `product_id`      | `string` | **Required**. Get full details of the product |
+
+
+#### Search item by keyword.
+
+```http
+  GET /search/${keyword}
+```
+
+| Parameter | Type     | Description                       |
+| :-------- | :------- | :-------------------------------- |
+| `keyword`      | `string` | **Required**. Product that are related to the keyword as sent as a result |\
+
+
 #### Register
 
 ```http
