@@ -1,4 +1,5 @@
 const jwt = require("jsonwebtoken");
+const bcrypt = require("bcrypt");
 const User = require("../models/UserModel");
 require("dotenv").config();
 
@@ -12,9 +13,7 @@ const register = async (req, res) => {
     if (user) {
       return res.status(400).send({ message: "User already exists" });
     }
-    user = await User.create(req.body).populate({
-      path: "cart.items.productId",
-    });
+    user = await User.create(req.body);
     const token = generateToken(user);
     return res.status(200).send({ user, token });
   } catch (e) {
@@ -32,7 +31,7 @@ const login = async (req, res) => {
       return res.status(400).send({ message: "Wrong Email or Password" });
     }
 
-    const match = user.checkPassword(req.body.password);
+    let match = await user.checkPassword(req.body.password);
 
     if (!match) {
       return res.status(400).send({ message: "Wrong Email or PassWord" });

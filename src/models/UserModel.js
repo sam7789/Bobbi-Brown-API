@@ -30,14 +30,15 @@ const userSchema = new mongoose.Schema(
   }
 );
 
-userSchema.pre("save", function (next) {
-  const hash = bcrypt.hashSync(this.password, 8);
+userSchema.pre("save", async function (next) {
+  const salt = await bcrypt.genSalt(8);
+  const hash = await bcrypt.hash(this.password, salt);
   this.password = hash;
   return next();
 });
 
 userSchema.methods.checkPassword = async function (password) {
-  return await bcrypt.compareSync(new String(password).trim(), this.password);
+  return await bcrypt.compare(password, this.password);
 };
 
 // addttocart method
