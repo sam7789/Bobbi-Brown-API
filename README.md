@@ -24,7 +24,7 @@ This was a collaborative project of six member to create a clone of bobbi-brown 
 
 ## API Reference
 
-#### API Link:- https://bobbi-brown-api.herokuapp.com/
+#### API Link:- https://bobbi-brown-api.herokuapp.com/  ||  https://bobbibrown-api.onrender.com/
 
 #### Get all items
 
